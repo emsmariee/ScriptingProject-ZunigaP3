@@ -16,3 +16,4 @@ public class UpdateAndFixedUpdate : MonoBehaviour
         Debug.Log("Update time:" + Time.deltaTime);
     }
 }
+  
